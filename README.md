@@ -5,7 +5,8 @@ This README.md file is originally from a forked repository [https://github.com/r
 
 This fork has been used to create a the solutions to the plotting scenarios posed in project 1.
 
-
+In order to run this code it has been assummed that the correct data set has been unzipped into your working directory
+You can use the setwd() command to set your working directory. Use ?setwd to access the help file for this command.
 
 
 
