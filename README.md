@@ -1,3 +1,18 @@
+Project 1 for Exploritory Data Analysis Course - Coursera
+=========================================================
+
+This README.md file is originally from a forked repository [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) as per the instructions for the project below.
+
+This fork has been used to create a the solutions to the plotting scenarios posed in project 1.
+
+
+
+
+
+Original Instructions
+=====================
+
+
 ## Introduction
 
 This assignment uses data from
