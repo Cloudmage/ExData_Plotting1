@@ -8,7 +8,8 @@ This fork has been used to create a the solutions to the plotting scenarios pose
 
 
 
-
+In order to run this code it has been assummed that the correct data set has been unzipped into your working directory
+You can use the setwd() command to set your working directory. Use ?setwd to access the help file for this command.
 
 Original Instructions
 =====================
